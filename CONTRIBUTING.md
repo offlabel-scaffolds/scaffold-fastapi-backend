@@ -1,35 +1,30 @@
-# Contributing to scaffold-fastapi-backend
+# Contributing
 
-Thank you for your interest in contributing!
+Found a bug or have an improvement? Awesome!
 
-## Getting Started
+## How to Contribute
 
-1. Fork the repository
-2. Clone your fork
-3. Create a feature branch
-4. Make your changes
-5. Write/update tests
-6. Submit a pull request
+1. Fork the repo
+2. Create a branch (`git checkout -b feature/amazing-thing`)
+3. Make your changes
+4. Test them (seriously, test them)
+5. Commit with a clear message
+6. Push and open a PR
+
+## Guidelines
+
+- Write clear commit messages (not "fix stuff" or "updates")
+- Add tests for new features
+- Update docs if you change behavior
+- Keep PRs focused (one thing at a time)
 
 ## Code Style
 
-- Follow the existing code style
-- Run linters before committing
-- Write meaningful commit messages
-
-## Testing
-
-- Add tests for new features
-- Ensure all tests pass
-- Maintain or improve code coverage
-
-## Pull Request Process
-
-1. Update documentation
-2. Add tests for new features
-3. Ensure CI passes
-4. Request review from maintainers
+Follow the existing style. If there's a linter config, use it.
+If not, just try to match what's already there.
 
 ## Questions?
 
-Open an issue or reach out to the maintainers.
+Open an issue or email hello@offlabel.design
+
+Thanks for making this better! 🙌

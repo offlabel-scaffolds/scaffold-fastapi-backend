@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.Python
+env/
+venv/
+.venv/
+target/
+Cargo.lock
+
+# Environment
+.env
+.env.local
+.env*.local
+*.env
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.next/
+out/
+.nuxt/
+.output/
+.turbo/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.nyc_output/
+
+# OS
+.DS_Store
+Thumbs.db
