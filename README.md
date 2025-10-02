@@ -87,4 +87,4 @@ Don't be shy. If this helped you ship faster, let me know. Makes my day.
 
 ---
 
-Built with ❤️ (and lots of debugging) by Augustus Rivers at [Off Label Design](https://offlabel.design)
+Built with ❤️ (and lots of debugging) by Augustus Rivers at [Offlabel Design](https://offlabel.design)
