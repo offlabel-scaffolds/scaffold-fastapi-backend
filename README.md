@@ -10,7 +10,7 @@ A production-ready scaffold that actually works. Not some half-assed tutorial co
 but real shit you can deploy. Still needs customization for your specific use case,
 but the hard parts are done.
 
-## Quick Start
+## Setup
 
 ```bash
 # Clone it
@@ -55,11 +55,11 @@ If something's actually broken, open an issue or email me.
 
 ```
 .
-├── src/          # Source code
-├── docs/         # Documentation
-├── tests/        # Tests (write more!)
-├── .github/      # CI/CD workflows
-└── config/       # Configuration files
+├── src/ # Source code
+├── docs/ # Documentation
+├── tests/ # Tests (write more!)
+├── .github/ # CI/CD workflows
+└── config/ # Configuration files
 ```
 
 ## Deployment
@@ -87,4 +87,4 @@ Don't be shy. If this helped you ship faster, let me know. Makes my day.
 
 ---
 
-Built with ❤️ (and lots of debugging) by Augustus Rivers at [Offlabel Design](https://offlabel.design)
+Built with ️ (and lots of debugging) by Augustus Rivers at [Offlabel Design](https://offlabel.design)
